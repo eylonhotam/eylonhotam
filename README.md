@@ -29,7 +29,7 @@ A PyTorch-based neural network architecture designed for real-time, hand-drawn s
 
 
 #### [Grocy-Pantry-Bot](https://github.com/yourusername/Grocy-Pantry-Bot)
-An automated grocery and inventory management bot leveraging JavaScript and the Twilio API. Features dynamic JSON storage and a responsive frontend dashboard with custom CSS low-stock alerts.
+An automated grocery and inventory management bot leveraging OOP JavaScript and FSM logic. Features local user storage and a responsive frontend dashboard with custom CSS low-stock alerts.
 
 ---
 
