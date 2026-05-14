@@ -16,19 +16,21 @@ I love building in public, tackling low-level engineering hurdles, and training 
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** Python, Java, JavaScript, HTML/CSS
-* **AI / Machine Learning:** PyTorch, NumPy, Gradio, Data Preprocessing & Model Evaluation
-* **Developer Tools:** Git, GitHub Pages,  JSON-based storage systems
-* **Academic Focus:** Systems Architecture, Calculus, Physics, and Data Structures
+* **AI / ML:** PyTorch, NumPy, OpenCV, Gradio · CNN architecture design, data augmentation, model evaluation & deployment
+* **Computer Vision:** Synthetic dataset generation, bounding-box preprocessing, domain adaptation, real-time inference pipelines
+* **Systems & Automation:** OOP design patterns, FSM logic, REST API integration, JSON-based local storage
+* **Dev Tools:** Git, GitHub, Hugging Face Spaces, Google Colab
+
 
 ---
 
 ### 📁 Featured Projects
 
-#### [ShapeWaveNet](https://github.com/yourusername/ShapeWaveNet)
-A PyTorch-based neural network architecture designed for real-time, hand-drawn shape classification. Includes an end-to-end training pipeline and an interactive user interface built with Gradio.
+#### [ShapeWaveNet](https://github.com/eylonhotam/shapes-neural-network)
+A PyTorch-based neural network architecture designed for real-time, hand-drawn shape classification. Includes an end-to-end training pipeline and an interactive user interface built with Gradio. [Try it here!](https://huggingface.co/spaces/eylonhotam/shapes-neural-network)
 
 
-#### [Grocy-Pantry-Bot](https://github.com/yourusername/Grocy-Pantry-Bot)
+#### [Grocy-Pantry-Bot](https://github.com/eylonhotam/Grocy-Pantry-Bot)
 An automated grocery and inventory management bot leveraging OOP JavaScript and FSM logic. Features local user storage and a responsive frontend dashboard with custom CSS low-stock alerts.
 
 ---
