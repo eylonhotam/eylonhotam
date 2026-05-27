@@ -35,15 +35,6 @@ An automated grocery and inventory management bot leveraging OOP JavaScript and 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eylonhotam&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eylonhotam&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-
----
-
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eylon_Hotam-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/eylon-h-6a5381276)
 
