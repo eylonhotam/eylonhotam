@@ -1,41 +1,31 @@
 # Hi there, I'm Eylon 👋
 
-I am a Computer Engineering student at the Technion – Israel Institute of Technology. I build software at the intersection of robust systems engineering and machine learning, with a growing focus on MedTech innovation and building intelligent, real-world applications.
-
-I love building in public, tackling low-level engineering hurdles, and training neural networks to solve complex problems.
+Computer Engineering student at the Technion. Learning front-end, back-end, and everything in between.
+Recent projects: a PyTorch CNN for real-time shape classification, a dependency-free JavaScript inventory app built around a finite-state machine, and a non-invasive colorectal-screening device that won 1st place at the T2Med Hackathon.
 
 ---
+### 📁 Featured Projects
 
-### 🚀 What I'm Up To
-* 🔬 **MedTech Innovation:** Recent 1st place winner at the T2Med Hackathon for developing **ColoKal**, a non-invasive diagnostic device designed to improve user compliance in early colorectal cancer screenings.
-* 🧠 **Deep Learning:** Building and optimizing computer vision models, focusing on real-time classification and seamless UI deployments.
-* 🛠️ **Systems & Automation:** Crafting automated inventory systems, low-level scripts, and performance-focused tools.
+#### [ShapeWaveNet](https://github.com/eylonhotam/shapes-neural-network) — real-time shape classifier
+A PyTorch CNN trained on a hybrid dataset: 5,000 synthetic OpenCV images per class plus 10,000 Quick Draw drawings, augmented and calibrated with temperature scaling and label smoothing. Draw on the Gradio sketchpad, get live confidence scores. [Live demo →](https://huggingface.co/spaces/eylonhotam/shapes-neural-network)
+
+#### [Grocy-Pantry-Bot](https://github.com/eylonhotam/grocy-pantry-bot) — conversational inventory manager
+Zero-dependency vanilla JS. A finite-state machine parses commands like `"bought 12 eggs"` and onboards new items through IDLE → WAIT_CAT → WAIT_THR states. Custom low-stock thresholds, localStorage persistence, and an auto-generated shopping list. [Live demo →](https://eylonhotam.github.io/grocy-pantry-bot)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** Python, Java, JavaScript, HTML/CSS
-* **AI / ML:** PyTorch, NumPy, OpenCV, Gradio · CNN architecture design, data augmentation, model evaluation & deployment
-* **Computer Vision:** Synthetic dataset generation, bounding-box preprocessing, domain adaptation, real-time inference pipelines
-* **Systems & Automation:** OOP design patterns, FSM logic, REST API integration, JSON-based local storage
+* **Languages:** Python, Java, JavaScript, C, HTML/CSS, System Verilog
+* **AI / ML:** PyTorch, NumPy, OpenCV, Gradio · CNN design, data augmentation, model calibration & deployment
+* **Systems & Web:** C, OOP design, FSM logic, vanilla JS/CSS, local persistence, RISC-V
 * **Dev Tools:** Git, GitHub, Hugging Face Spaces, Google Colab
 
 
----
 
-### 📁 Featured Projects
-
-#### [ShapeWaveNet](https://github.com/eylonhotam/shapes-neural-network)
-A PyTorch-based neural network architecture designed for real-time, hand-drawn shape classification. Includes an end-to-end training pipeline and an interactive user interface built with Gradio. [Try it here!](https://huggingface.co/spaces/eylonhotam/shapes-neural-network)
-
-
-#### [Grocy-Pantry-Bot](https://github.com/eylonhotam/Grocy-Pantry-Bot)
-An automated grocery and inventory management bot leveraging OOP JavaScript and FSM logic. Features local user storage and a responsive frontend dashboard with custom CSS low-stock alerts.
 
 ---
 
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eylon_Hotam-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/eylon-h-6a5381276)
-
 *"The best way to predict the future is to invent it."*
