@@ -1,7 +1,7 @@
 # Hi there, I'm Eylon 👋
 
 Computer Engineering student at the Technion. Learning front-end, back-end, and everything in between.
-Recent projects: a PyTorch CNN for real-time shape classification, a dependency-free JavaScript inventory app built around a finite-state machine, and a non-invasive colorectal-screening device that won 1st place at the T2Med Hackathon.
+Recent projects: a PyTorch CNN for real-time shape classification, a dependency-free JavaScript inventory app built around a finite-state machine.
 
 ---
 ### 📁 Featured Projects
@@ -20,9 +20,6 @@ Zero-dependency vanilla JS. A finite-state machine parses commands like `"bought
 * **AI / ML:** PyTorch, NumPy, OpenCV, Gradio · CNN design, data augmentation, model calibration & deployment
 * **Systems & Web:** C, OOP design, FSM logic, vanilla JS/CSS, local persistence, RISC-V
 * **Dev Tools:** Git, GitHub, Hugging Face Spaces, Google Colab
-
-
-
 
 ---
 
