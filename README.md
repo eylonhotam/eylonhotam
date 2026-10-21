@@ -1,7 +1,14 @@
 # Hi there, I'm Eylon 👋
 
-Computer Engineering student at the Technion. Learning front-end, back-end, and everything in between.
+Computer Engineering student at the Technion. Interested in how computation works across the stack, from RTL to ML models.
+Currently building: a weight-stationary systolic multiply-accumulate array in SystemVerilog, verified bottom-up from PE to full array.
 Recent projects: a PyTorch CNN for real-time shape classification, a dependency-free JavaScript inventory app built around a finite-state machine.
+
+---
+### ⚙️ Currently Building 
+
+#### [Systolic MAC Array](https://github.com/eylonhotam/systolic-mac-sv) - weight-stationary systolic MAC array
+A parameterized S×S array in SystemVerilog, using the same dataflow as Google’s TPU: INT8 inputs, INT32 accumulation, and requantized outputs. Weights stay resident in each PE while activations stream through skew buffers, all behind a simple valid/ready handshake. The PE, column, and array are verified with their own testbenches; NumPy golden model is next.
 
 ---
 ### 📁 Featured Projects
@@ -25,4 +32,5 @@ Zero-dependency vanilla JS. A finite-state machine parses commands like `"bought
 
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eylon_Hotam-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/eylon-h-6a5381276)
+\
 *"The best way to predict the future is to invent it."*
